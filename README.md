@@ -37,7 +37,7 @@ Building secure applications, exploring malware analysis, and creating automatio
 # 🧠 Currently Learning
 
 - Advanced Java
-- Python
+- Advanced Python
 - Malware Analysis
 - Reverse Engineering
 - Cloud Computing
