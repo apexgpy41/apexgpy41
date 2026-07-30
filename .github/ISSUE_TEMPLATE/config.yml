@@ -1,0 +1,10 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: Security Report
+    url: mailto:apexgpy41@gmail.com
+    about: Please report security vulnerabilities privately.
+
+  - name: Discussions
+    url: https://github.com/apexgpy41/apexgpy41/discussions
+    about: Ask questions or start discussions.

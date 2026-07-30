@@ -1,0 +1,57 @@
+{
+  "name": "Yash Uttam Kondekar",
+  "username": "apexgpy41",
+  "headline": "Software Engineer | Cyber Security Enthusiast | Full Stack Developer | Automation Builder",
+  "location": "Girgaon, Kolhapur, Maharashtra, India",
+
+  "bio": "Passionate software developer focused on Full Stack Development, Cyber Security, Malware Analysis, Linux, Automation and Open Source.",
+
+  "skills": [
+    "C",
+    "C++",
+    "Java",
+    "Python",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "PHP",
+    "Git",
+    "GitHub",
+    "Linux",
+    "Cyber Security",
+    "Malware Analysis"
+  ],
+
+  "interests": [
+    "Cyber Security",
+    "Open Source",
+    "Automation",
+    "Backend Development",
+    "Linux",
+    "Cloud Computing"
+  ],
+
+  "projects": [
+    {
+      "name": "ArbanStay",
+      "description": "Student accommodation platform built using modern web technologies."
+    },
+    {
+      "name": "Malware Analysis Lab",
+      "description": "Repository for malware analysis practice, reverse engineering and security research."
+    }
+  ],
+
+  "learning": [
+    "Advanced Java",
+    "Python",
+    "Cyber Security",
+    "Malware Analysis",
+    "System Design",
+    "Cloud Technologies"
+  ],
+
+  "contact": {
+    "github": "https://github.com/apexgpy41"
+  }
+}

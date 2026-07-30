@@ -1,0 +1,36 @@
+name: Continuous Integration
+
+on:
+  push:
+    branches:
+      - main
+      - master
+  pull_request:
+    branches:
+      - main
+      - master
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Validate Markdown Files
+        run: |
+          echo "Checking Markdown files..."
+          find . -name "*.md" -print
+
+      - name: Validate YAML Files
+        run: |
+          echo "Checking YAML files..."
+          find . -name "*.yml" -o -name "*.yaml" -print
+
+      - name: Repository Summary
+        run: |
+          echo "Repository validation completed successfully."

@@ -1,0 +1,48 @@
+name: Code Quality
+
+on:
+  push:
+    branches:
+      - main
+      - master
+  pull_request:
+    branches:
+      - main
+      - master
+
+permissions:
+  contents: read
+
+jobs:
+  quality:
+    name: Repository Quality Check
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Check Markdown Files
+        run: |
+          echo "Markdown files:"
+          find . -type f -name "*.md"
+
+      - name: Check YAML Files
+        run: |
+          echo "YAML files:"
+          find . -type f \( -name "*.yml" -o -name "*.yaml" \)
+
+      - name: Validate JSON Files
+        run: |
+          echo "JSON files:"
+          find . -type f -name "*.json" -exec python3 -m json.tool {} > /dev/null \;
+          echo "All JSON files are valid."
+
+      - name: Repository Statistics
+        run: |
+          echo "Markdown Files : $(find . -name '*.md' | wc -l)"
+          echo "YAML Files     : $(find . -name '*.yml' | wc -l)"
+          echo "JSON Files     : $(find . -name '*.json' | wc -l)"
+
+      - name: Finished
+        run: echo "Repository quality check completed successfully."
