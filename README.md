@@ -426,3 +426,14 @@ If you like my projects, don't forget to ⭐ star the repositories.
 <img src="https://komarev.com/ghpvc/?username=apexgpy41&style=for-the-badge&color=blue"/>
 
 </div>
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/apexgpy41/apexgpy41/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 🌟 Support My Work
+
+If you like my projects, don't forget to ⭐ star the repositories.
