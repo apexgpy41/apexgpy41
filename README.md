@@ -24,14 +24,31 @@ Building secure applications, exploring malware analysis, and creating automatio
 
 # 🚀 About Me
 
-- 💻 Software Engineer
-- 🔐 Interested in Cyber Security & Malware Analysis
-- 🌐 Full Stack Developer
-- 🐧 Linux Enthusiast
-- 🤖 Automation Builder
-- 📚 Always learning new technologies
-- 🇮🇳 Based in Girgaon Kolhapur, Maharashtra, India
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Who Am I?
 
+<div align="center">
+
+```typescript
+class YashUttamKondekar {
+
+    role = "Software Engineer";
+
+    location = "Kolhapur, Maharashtra 🇮🇳";
+
+    interests = [
+        "Cyber Security",
+        "Malware Analysis",
+        "Reverse Engineering",
+        "Full Stack Development"
+    ];
+
+    currentGoal = "Building production-ready secure applications";
+
+    motto = "Code • Secure • Automate • Repeat";
+}
+```
+
+</div>
 ---
 
 # 🧠 Currently Learning
