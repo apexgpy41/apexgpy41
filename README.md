@@ -58,7 +58,7 @@ class YashUttamKondekar {
 | Domain | Level |
 |:------|:------:|
 | ☕ Advanced Java | ██████████ 95% |
-| 🐍 Python | █████████░ 90% |
+| 🐍 Advanced Python | █████████░ 90% |
 | 🌐 Full Stack | ████████░░ 80% |
 | 🛡 Malware Analysis | ███████░░░ 70% |
 | 🔬 Reverse Engineering | ██████░░░░ 60% |
