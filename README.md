@@ -51,16 +51,22 @@ class YashUttamKondekar {
 </div>
 ---
 
-# 🧠 Currently Learning
+## 🧠 Learning Matrix
 
-- Advanced Java
-- Advanced Python
-- Malware Analysis
-- Reverse Engineering
-- Cloud Computing
-- System Design
-- Secure Coding Practices
+<div align="center">
 
+| Domain | Level |
+|:------|:------:|
+| ☕ Advanced Java | ██████████ 95% |
+| 🐍 Python | █████████░ 90% |
+| 🌐 Full Stack | ████████░░ 80% |
+| 🛡 Malware Analysis | ███████░░░ 70% |
+| 🔬 Reverse Engineering | ██████░░░░ 60% |
+| ☁ Cloud Computing | ██████░░░░ 60% |
+| 🏗 System Design | █████░░░░░ 50% |
+| 🔐 Secure Coding | ███████░░░ 70% |
+
+</div>
 ---
 ## 🛠 Tech Stack
 
