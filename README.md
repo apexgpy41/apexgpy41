@@ -45,31 +45,35 @@ Building secure applications, exploring malware analysis, and creating automatio
 - Secure Coding Practices
 
 ---
+## 🛠 Tech Stack
 
-# 🛠 Tech Stack
+<div align="center">
 
-### Languages
+### 💻 Languages & Web
 
-- C
-- C++
-- Java
-- Python
-- HTML
-- CSS
-- JavaScript
-- PHP
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,php" />
 
-### Tools & Platforms
+<br><br>
 
-- Git
-- GitHub
-- VS Code
-- Linux
-- VMware
-- Kali Linux
-- XAMPP
-- MySQL
+### ⚡ Frameworks & Databases
 
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,firebase,mysql" />
+
+<br><br>
+
+### 🛡 Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
+
+<br><br>
+
+### 🔐 Cyber Security & Virtualization
+
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
+<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
+
+</div>
 ---
 
 # 📌 Featured Projects
