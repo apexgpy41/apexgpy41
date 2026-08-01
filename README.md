@@ -33,7 +33,7 @@ class YashUttamKondekar {
 
     role = "Software Engineer";
 
-    location = "Kolhapur, Maharashtra 🇮🇳";
+    location = "Girgaon, Kolhapur, Maharashtra 🇮🇳";
 
     interests = [
         "Cyber Security",
